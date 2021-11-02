@@ -1,0 +1,12 @@
+$Id: RELEASE-NOTES.txt 471636 2006-11-06 05:00:39Z bayard $
+
+Commons DbUtils Package
+Release Notes
+
+
+You can find release notes for this and past releases online at
+
+http://jakarta.apache.org/commons/dbutils/changes-report.html
+
+
+
